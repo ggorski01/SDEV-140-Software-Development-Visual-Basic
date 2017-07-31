@@ -1,0 +1,10 @@
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\bin\Debug\Buttons.exe.config
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\bin\Debug\Buttons.exe
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\bin\Debug\Buttons.pdb
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\bin\Debug\Buttons.xml
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.Buttons.resources
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.Resources.resources
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.vbproj.GenerateResource.Cache
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.exe
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.xml
+c:\users\gimon\documents\visual studio 2012\Projects\Buttons\Buttons\obj\Debug\Buttons.pdb
